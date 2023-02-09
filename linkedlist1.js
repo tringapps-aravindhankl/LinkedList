@@ -4,7 +4,7 @@ class Node{
         this.next=null;
     }
 }
-class linkedlist{
+class Linkedlist{
     head=null;
     
     add(value){
