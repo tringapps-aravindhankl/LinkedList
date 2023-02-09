@@ -45,11 +45,11 @@ console.log(arr6);
 
 //Sort method
 let arr7=[14,12,10,9,1,2];
-let arr8=arr7.sort(function(a,b){
+arr7.sort(function(a,b){
     return a-b;
 });
 console.log("Sort Method");
-console.log(arr8);
+console.log(arr7);
 
 //Splice Method
 let arr10=[1,2,3,4];
