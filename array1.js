@@ -112,9 +112,9 @@ console.log(arr22);
 
 //reverse
 let arr16=[1,2,3,4,5];
-let arr17=arr16.reverse();
+arr16.reverse();
 console.log("Reverse elements");
-console.log(arr17);
+console.log(arr16);
 
 
 //map
