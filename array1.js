@@ -118,8 +118,8 @@ console.log(arr17);
 
 
 //map
-arr18=[1,2,3,4,5,6];
-arr19=arr18.map(helo);
+let arr18=[1,2,3,4,5,6];
+let arr19=arr18.map(helo);
 
 function helo(a){
     return a*10
