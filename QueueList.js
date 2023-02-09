@@ -23,7 +23,7 @@ class Queuelist{
 
     deleteElements(){
         let n2=this.head;
-            this.head=this.head.next;
+            this.head=n2.next;
     }
     print(){
         let temp=this.head;
