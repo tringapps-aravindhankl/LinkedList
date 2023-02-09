@@ -85,6 +85,7 @@ console.log("copyWithMethod");
 console.log(arr);
 
 //entries
+let x;
 let fruits = ["Banana", "Orange", "Apple", "Mango"];
 let f = fruits.entries();
 console.log("entries method:");
